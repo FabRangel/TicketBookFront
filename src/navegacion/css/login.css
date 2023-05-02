@@ -1,0 +1,11 @@
+.imgLogin{
+	height: 80vh;
+	border-radius: 20px;
+	box-shadow: 10px 10px 5px darkgray;
+}
+.cascading-right {
+	border-radius: 20px;
+	margin-left: -50px;
+	background: hsla(0, 0%, 100%, 0.55);
+	backdrop-filter: blur(30px);
+}

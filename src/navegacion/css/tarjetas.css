@@ -1,0 +1,34 @@
+
+.imgCard{
+  height: 40vh;
+}
+.cardEventos:hover {
+  box-shadow: 5px 10px 20px 1px rgba(255, 255, 255, 0.273) !important;
+}
+.cardEventos:hover{
+  transform: translateY(-10px);
+}
+.cardEventos:hover button{
+  transform: translateY(-10px);
+}
+.card-body {
+  padding: 2rem 0 !important;
+}
+
+.card-text {
+  padding: 0.3rem 1rem;
+  font-size: 1rem;
+  font-family: Verdana, Geneva, Tahoma, sans-serif
+}
+
+.imgCard {
+  transform: scale(1);
+  transition: all 0.2s ease-in-out;
+  margin-left: 15px;
+  margin-right: 15px;
+  border-radius: 10px;
+}
+
+.cardEventos{
+  border: none;
+}
